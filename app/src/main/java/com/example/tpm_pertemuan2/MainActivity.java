@@ -1,3 +1,9 @@
+/*
+ * Creator  : Sakti Wicaksono
+ * App      : Hitung Luas dan Keliling Lingkaran
+ * Date     : 15-02-2020
+ */
+
 package com.example.tpm_pertemuan2;
 
 import androidx.appcompat.app.AppCompatActivity;
